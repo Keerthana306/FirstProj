@@ -1,6 +1,6 @@
 # FirstProj
 ```
-Alerting the user when limit is reached 
+Creating website login page 
 
 ```
-Low cost automation in field
+To build a basic responsive web page 
